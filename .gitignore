@@ -25,3 +25,4 @@ src/packages/Newtonsoft.Json**
 _ReSharper.Caches
 /.nuke/temp
 /artifacts
+/nj
